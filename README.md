@@ -21,7 +21,6 @@ Este projeto foi desenvolvido como parte da disciplina de Linguagem de Programa�
 - **Java Swing**: Para a construção da interface gráfica.
 - **PostgreSQL**: Para gerenciamento do banco de dados.
 - **MD5**: Para criptografia das senhas no sistema de login.
-- **Validação de CPF e ISBN**: O sistema valida o CPF dos usuários e o ISBN dos livros durante o cadastro, impedindo a duplicidade de registros.
 
 ## Como Executar
 
