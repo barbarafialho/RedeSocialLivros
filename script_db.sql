@@ -7,7 +7,7 @@ create table usuario (
 	nome varchar(80), 
 	cpf varchar(11), 
 	genero varchar(10), 
-	telefone varchar(11),
+	telefone varchar(14),
 	email varchar(50), 
 	username varchar(20), 
 	senha varchar(50),
